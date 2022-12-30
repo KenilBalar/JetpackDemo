@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "361510964527",
+    "project_id": "crypttrack-871d8",
+    "storage_bucket": "crypttrack-871d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361510964527:android:36f342afd34a0667e8e5da",
+        "android_client_info": {
+          "package_name": "com.example.jetpackpractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361510964527-ts5qraa1llsn3canqq2fii94tntvejpo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jetpackpractice",
+            "certificate_hash": "0b95c0d2c227d7ba08753cd448064a2b0b488347"
+          }
+        },
+        {
+          "client_id": "361510964527-sjrrdak2lb2qfves1cu7qoic5sv9b4p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIqJnQvm-pc-ZRcDKiUY5pvOyot5IakDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361510964527-sjrrdak2lb2qfves1cu7qoic5sv9b4p5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
